@@ -30,10 +30,8 @@ o If Else Statements: -It is used to execute some statement code block if the ex
 
 • Inheritance: -Inheritance is a process by which objects of new class acquire the properties of objects of existing class. Using Inheritance, we can increase a class’s functionalities.
 
-• FUNCTIONS LIKE: - fflush(stdin) used to empty the buffer.
+i.e OOPs concepts 
 
-o vline():- It draw a vertical line using ch starting at the cursor position in the window.
-
-o STL: - We used classes defined in Standard Template Library like "string" class.
+3. STL: - We used classes defined in Standard Template Library.
 
 
